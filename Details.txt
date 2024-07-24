@@ -1,0 +1,1 @@
+I have included two python files one a normal project which detects the face and records the attendance in a csv file another file which depicts the concept of Saving the image of the attendee and detecting the face both has been implemented using a simple UI. Detailed explanation of the project is given in the word file
